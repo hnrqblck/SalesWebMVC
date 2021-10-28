@@ -7,7 +7,6 @@ C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMV
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.dll
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
-C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
@@ -34,3 +33,5 @@ C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMV
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Documents\Cursos\Udemy\C# Completo\Cap MVC EF\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
